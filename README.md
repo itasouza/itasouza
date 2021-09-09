@@ -26,6 +26,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itasouza)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Últimos Cursos:
